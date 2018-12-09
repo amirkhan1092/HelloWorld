@@ -1,4 +1,4 @@
 
 a=input('enter your command ')
 
-print(a)
+print("hello world ",a)
